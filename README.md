@@ -12,8 +12,9 @@
 
 ### Баг-репорты, созданные в Jira в рамках обучения на курсах
 
-[Посмотреть баг-репорты](BugreportsJira.docx)
+![BugReportJira1](BugReportJira1.png)
+![BugReportJira2](BugReportJira2.png)
 
 ### Баг-репорт, созданный в Azure DevOps
 
-[Посмотреть баг-репорт](BugreportsJira.docx)
+![Azure DevOps](<Баг-репорт Azure DevOps.PNG>)
